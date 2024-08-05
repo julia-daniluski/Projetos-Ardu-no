@@ -10,7 +10,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
  digitalWrite (6, HIGH); // acende a led 
- delay (2000) // tempo que vai esperar
+ delay (2000); // tempo que vai esperar
  digitalWrite (6, LOW); // apaga a led
  delay (2000);
 }
